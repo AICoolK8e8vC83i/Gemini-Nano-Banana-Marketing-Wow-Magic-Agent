@@ -33,7 +33,7 @@ The system is designed to **support marketing teams** by accelerating the creati
 ---
 
 ## Demo
-- **YouTube Demo**: [Insert link here]  
+- **YouTube Demo**: [[YouTube Gemini 2.5 Flash Nano Demo](https://youtu.be/z7Tj2Z2XCSA)]  
 - **Sample Outputs**: See `/demo/outputs/`
 
 ---
@@ -51,6 +51,8 @@ The system is designed to **support marketing teams** by accelerating the creati
 - **State-of-the-Art Technology**: Integrates cutting-edge models across vision, language, and speech to show what *agentic pipelines* can achieve in real business settings.  
 - **Proof of Concept**: Demonstrates how enterprise marketing teams can adapt SOTA AI to gain **speed, scalability, and new creative dimensions**.  
 
+## Upgrades to Add On Soon
+- **Imaginary Details**: Give marketers, graphic designers a way to transform it into video (a text box) for them to describe their ideas alongside the image to show how the video should take inspiration from the video . Most likely I will use Fal AI to host a Veo 3 model for high end runs, with optionality to choose a lighter model for cost preservation and more runs.
 ---
 
 ## Setup
@@ -71,3 +73,4 @@ cd app
 **Launch Gradio UI for interactive demo:**
 
 python3 app.py
+
